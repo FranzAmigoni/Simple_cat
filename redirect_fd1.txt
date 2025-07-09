@@ -1,0 +1,11 @@
+this is the OTHER file
+j has the value 1 and is stored at 00407070
+k has the value 2 and is stored at 00407078
+ptr has the value 00407078 and is stored at 00407074
+The value of the integer pointed to by ptr is 2
+The value of the integer pointed to by ptr2 is 1
+The value of the integer pointed to by ptr2 is 23
+The value of the integer pointed to by ptr2 is 17
+The value of the integer pointed to by ptr2 is 4
+The value of the integer pointed to by ptr2 is -5
+The value of the integer pointed to by ptr2 is 100
